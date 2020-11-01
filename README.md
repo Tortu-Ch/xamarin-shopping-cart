@@ -1,4 +1,4 @@
-# ShoppingCart
+# Shopping Cart
  
 The Shopping Cart is an online shopping application developed using [Syncfusion’s Xamarin UI controls](https://www.syncfusion.com/xamarin-ui-controls) and  [Essential UI Kit](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) on the Xamarin.Forms platform. It’s been integrated with mock data to test the application without any database or cloud configurations.
 
